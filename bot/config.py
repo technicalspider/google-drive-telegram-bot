@@ -4,7 +4,7 @@ class config:
     API_HASH = "1aa2218bfe4b27c799e2d856f8a03b54"
     DATABASE_URL = "postgres://feykhbbuxzhjvq:00eb710a27764ac408aaae05294f45df34384382a07d0bdc335efe51de8e1c76@ec2-54-86-170-8.compute-1.amazonaws.com:5432/d3rlgn02q9eu66"
     SUDO_USERS = "778114097" # Sepearted by space.
-    SUPPORT_CHAT_LINK = ""
+    SUPPORT_CHAT_LINK = "https://t.me/joinchat/LmEUMRQoX0oU-3mSFlaE2g"
 
 
 class BotCommands:
